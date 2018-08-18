@@ -18,8 +18,8 @@ end Prueba;
 
 architecture FSM of Prueba is
 	signal contador: std_logic_vector(7 downto 0) := "00000000";
-   signal c2: std_logic := '1'; -- False clock to change the frequency
-   signal c1: integer := 0;	 -- Counter to control the frequency
+   	signal c2: std_logic := '1'; -- False clock to change the frequency
+  	signal c1: integer := 0;	 -- Counter to control the frequency
 	signal cont: INTEGER := 0; -- Counter from 0 to 255
 	signal inc: INTEGER := 0; -- Increasing value +-(1,2,3)
 	 
