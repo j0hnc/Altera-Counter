@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Administrador/Desktop/Prueba
+Econtador_zurek
+Z1 w1534275416
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Administrador/Desktop/Prueba/contador_zurek.vhd
+Z5 FC:/Users/Administrador/Desktop/Prueba/contador_zurek.vhd
+l0
+L4
+V[U0^=KJeOilEijAel<AWz3
+!s100 J?e6gT26<mOZ`4lg@Ic7F1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1534276222
+!i10b 1
+Z8 !s108 1534276222.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrador/Desktop/Prueba/contador_zurek.vhd|
+Z10 !s107 C:/Users/Administrador/Desktop/Prueba/contador_zurek.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Afsm
+R2
+R3
+DEx4 work 14 contador_zurek 0 22 [U0^=KJeOilEijAel<AWz3
+l18
+L12
+V@L:LE?>Nb6CBD68TgNR>;1
+!s100 F3IO]6o:J`4V3[c;e194d1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eprueba
+Z13 w1534521994
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+Z15 dC:/Users/Administrador/Downloads/AlteraCounter-master
+Z16 8C:/Users/Administrador/Downloads/AlteraCounter-master/contador_zurek.vhd
+Z17 FC:/Users/Administrador/Downloads/AlteraCounter-master/contador_zurek.vhd
+l0
+L5
+V8B7NdiLjBCbVO@hC85B[83
+!s100 o3jSZd[7ZL71Gb1?T^kz80
+R6
+32
+Z18 !s110 1534523410
+!i10b 1
+Z19 !s108 1534523410.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrador/Downloads/AlteraCounter-master/contador_zurek.vhd|
+Z21 !s107 C:/Users/Administrador/Downloads/AlteraCounter-master/contador_zurek.vhd|
+!i113 1
+R11
+R12
+Afsm
+R14
+R2
+R3
+Z22 DEx4 work 6 prueba 0 22 8B7NdiLjBCbVO@hC85B[83
+l69
+L19
+Z23 Va?gU8o66bDPGzRUbTX:PZ3
+Z24 !s100 cagogTKPWFT16mn>PTKNJ2
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
