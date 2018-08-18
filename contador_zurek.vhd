@@ -3,17 +3,17 @@ use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
 entity Prueba is
-port(	
-	clock50mhz:		in std_logic; -- 50 MHz clock
-	reset:	in std_logic;	-- Switch 0
-	frecuencia:	in std_logic; -- Switch 1
-	pinInc1:	in std_logic; -- Switch 2
-	pinInc2:	in std_logic; -- Switch 3
-	pinInc3:	in std_logic; -- Switch 4
-	pinRestar: in std_logic; -- Switch 5
-	seg1: out std_logic_vector(6 downto 0); -- Right display
-	seg2: out std_logic_vector(6 downto 0) -- Left display
-);
+	port(	
+		clock50mhz:		in std_logic; -- 50 MHz clock
+		reset:	in std_logic;	-- Switch 0
+		frecuencia:	in std_logic; -- Switch 1
+		pinInc1:	in std_logic; -- Switch 2
+		pinInc2:	in std_logic; -- Switch 3
+		pinInc3:	in std_logic; -- Switch 4
+		pinRestar: in std_logic; -- Switch 5
+		seg1: out std_logic_vector(6 downto 0); -- Right display
+		seg2: out std_logic_vector(6 downto 0) -- Left display
+	);
 end Prueba;
 
 architecture FSM of Prueba is
