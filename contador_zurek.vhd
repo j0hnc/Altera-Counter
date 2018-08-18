@@ -121,7 +121,7 @@ architecture FSM of Prueba is
 				inc <= 2;
 			elsif (pinInc3 = '1' and pinInc1 = '0' and pinInc2 = '0') then
 				inc <= 3;
-			elsif ((pinInc1 = '0' and pinInc2 = '0' and pinInc3 ='0')
+			elsif ((pinInc1 = '0' and pinInc2 = '0' and pinInc3 ='0') -- only works when 1 of them is up
 					or (pinInc1 = '1' and pinInc2 = '1' and pinInc3 ='0')
 					or (pinInc1 = '1' and pinInc2 = '0' and pinInc3 ='1')
 					or (pinInc1 = '0' and pinInc2 = '1' and pinInc3 ='1')
